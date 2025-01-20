@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Header\\Header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Header\\Header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Header\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Header\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\ForMe\\ForMe.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\ForMe\\ForMe.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\ForMe\\ForMe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\ForMe\\ForMe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Footer\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Footer\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Footer\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Footer\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Skills\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Body\\Skills\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Skills\\Skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Body\\Skills\\Skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Information\\Information.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Body\\Information\\Information.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Information\\Information.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Body\\Information\\Information.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Experience\\Experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Body\\Experience\\Experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Experience\\Experience.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Body\\Experience\\Experience.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForMe.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\ForMe\\ForMe.css",
+              "RelativeDocumentMoniker": "src\\Components\\ForMe\\ForMe.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\ForMe\\ForMe.css",
+              "RelativeToolTip": "src\\Components\\ForMe\\ForMe.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-16T08:42:18.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Footer\\Footer.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\Footer\\Footer.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Footer\\Footer.jsx",
+              "RelativeToolTip": "src\\Components\\Footer\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-15T10:47:48.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Footer\\Footer.css",
+              "RelativeDocumentMoniker": "src\\Components\\Footer\\Footer.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Footer\\Footer.css",
+              "RelativeToolTip": "src\\Components\\Footer\\Footer.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T10:48:00.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Information.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Information\\Information.css",
+              "RelativeDocumentMoniker": "src\\Components\\Body\\Information\\Information.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Information\\Information.css",
+              "RelativeToolTip": "src\\Components\\Body\\Information\\Information.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T10:48:20.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skills.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Skills\\Skills.css",
+              "RelativeDocumentMoniker": "src\\Components\\Body\\Skills\\Skills.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Skills\\Skills.css",
+              "RelativeToolTip": "src\\Components\\Body\\Skills\\Skills.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T12:25:00.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Information.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Information\\Information.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\Body\\Information\\Information.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Information\\Information.jsx",
+              "RelativeToolTip": "src\\Components\\Body\\Information\\Information.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-15T10:48:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skills.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Skills\\Skills.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\Body\\Skills\\Skills.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Skills\\Skills.jsx",
+              "RelativeToolTip": "src\\Components\\Body\\Skills\\Skills.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-15T12:24:49.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForMe.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\ForMe\\ForMe.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\ForMe\\ForMe.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\ForMe\\ForMe.jsx",
+              "RelativeToolTip": "src\\Components\\ForMe\\ForMe.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-16T08:41:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Header\\Header.css",
+              "RelativeDocumentMoniker": "src\\Components\\Header\\Header.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Header\\Header.css",
+              "RelativeToolTip": "src\\Components\\Header\\Header.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T10:47:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Header\\Header.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\Header\\Header.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Header\\Header.jsx",
+              "RelativeToolTip": "src\\Components\\Header\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-15T10:47:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Experience.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Experience\\Experience.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\Body\\Experience\\Experience.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Experience\\Experience.jsx",
+              "RelativeToolTip": "src\\Components\\Body\\Experience\\Experience.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-15T12:33:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Experience.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Experience\\Experience.css",
+              "RelativeDocumentMoniker": "src\\Components\\Body\\Experience\\Experience.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\Components\\Body\\Experience\\Experience.css",
+              "RelativeToolTip": "src\\Components\\Body\\Experience\\Experience.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T12:33:51.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-15T10:46:59.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\Psix\\Desktop\\My-resume\\My-resume\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T11:12:45.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
